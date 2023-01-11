@@ -1,2 +1,2 @@
-# DocumentObjectModel
-problem 4
+# Short assignment on Document Object Model for webpage design
+
